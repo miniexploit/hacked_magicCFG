@@ -4,7 +4,7 @@ A hacked version of magicCFG which will extract diags bootchain of a device
 * Since the diags bootchains of devices are carefully encoded in magicCFG, this hacked version will extract them if you wish to get the diags bootchain of a device
 * Because this hacked version's aim is just to extract the diags bootchain of a device (including iBSS, iBEC (if exists) and diags), it may not boot the device into purple mode properly
 ## Usage
-* Make sure to move magicCFG into `/Applications` first, otherwise bootchain won't be extracted properly \
+* Make sure to move magicCFG into `/Applications` first, otherwise bootchain won't be extracted properly
 * You're recommended to open magicCFG from `/Applications/MagicCFG.app/Contents/MacOS/MagicCFG` so that you can manage if the process of extracting bootchain
 * Steps:
 1. Connect a device in DFU mode
