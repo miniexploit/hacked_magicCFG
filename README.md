@@ -11,4 +11,5 @@ A hacked version of magicCFG which will extract diags bootchain of a device
 2. **Important step**: Open `/Applications/MagicCFG.app/Contents/Frameworks/outdir.txt` file, replace its content with path to the directory where you want the bootchain to be extracted to
 3. Open magicCFG, open Diagitizer DBU
 4. Hit the icon to start the process and wait for the bootchain of the connected device to be extracted
+
 **NOTE**: The name of bootchain files are randomly generated strings, use an Image4 parser to get their tag
